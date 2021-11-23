@@ -1,0 +1,27 @@
+<html>
+<body>
+<form>
+Name:<input type="text" name="n"><br><br>
+<label>first name:</label><input type="text" name="f">
+<label for="l">last name</label><input type="text"><br><br>
+Branch:<input type="text" name="b" placeholder="Enter your branch name"><br><br>
+Address:<input type="text" name="a" placeholder="Enter your present address"><br><br>
+Password:<input type="password" name="p" placeholder="Enter a 6-digit password"><br><br>
+Programming languages:<br><input type="checkbox" name="c"><label>C</label><br>
+<input type="checkbox" name="p" checked><label>Python</label><br>
+<input type="checkbox" name="j"><label>Java</label><br><br>
+Gender:<br>
+Male<input type="radio" name="g">Female<input type="radio" name="g"><br><br>
+Courses you are interested:<br>
+<select>
+<option>Artificial Intelligence</option>
+<option>Machine Learning</option>
+<option>Deep Learning</option>
+<option>Ethical hacking</option>
+</select>
+<br><br>
+FEE payment status(course fee Rs.100):<br>
+<input type="radio" name="y"><label>yes</label><br>
+<input type="radio" name="y"><label>No</label><br><br>
+         
+
